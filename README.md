@@ -10,6 +10,10 @@ Given a table in a csv file with numerous entries, a user wishes to populate eac
   a markdown file .mdx, using a predefined template with keywords that match columns in the
   csv table.
 
+# PROBLEM STATEMENT
+  Write a program or script that can achieve the above description. If any, submit
+  observations, improvement suggestions, or limitations of this program or script.
+
 # USAGE
 python3 csv2mdx.py -c "csvfile.csv" -t "templatefile.mdx"
 
