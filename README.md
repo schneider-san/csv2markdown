@@ -1,4 +1,5 @@
 # csv2markdown
+@Author: Al-Hassan Eletu
 This simple script generates markdown files from entries in a CSV file.
 
 # DISCLAIMER
